@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e1f0ec0ad12d2c14",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "189b72ff547a7bd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arquitetura do Sistema Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arquitetura do Sistema Linux"
-            }
-          }
-        ]
-      },
-      {
         "id": "0667efcee2c526b3",
         "type": "tabs",
         "children": [
@@ -31,10 +11,14 @@
             "id": "33f8e897fb48f0b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "1 - Entender a arquitetura do sistema/Licenças/Licenças de uso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Licenças de uso"
             }
           }
         ]
@@ -110,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Entender a arquitetura do sistema/Licenças/Licenças de uso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Licenças de uso"
             }
           },
           {
@@ -128,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Entender a arquitetura do sistema/Licenças/Licenças de uso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Licenças de uso"
             }
           },
           {
@@ -156,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1 - Entender a arquitetura do sistema/Licenças/Licenças de uso.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Licenças de uso"
             }
           }
         ]
@@ -182,18 +169,22 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d0245217ba9dbbfa",
+  "active": "33f8e897fb48f0b4",
   "lastOpenFiles": [
-    "Images",
-    "Open Source e Free Source/Free Software.md",
+    "1 - Entender a arquitetura do sistema/Arquitetura/Arquitetura do Sistema Linux.md",
     "LPI - Linux Essentials.md",
-    "Arquitetura do Sistema Linux.md",
-    "Images/Pasted image 20251105161332.png",
-    "Open Source e Free Source/Open Source.md",
-    "Open Source e Free Source",
+    "1 - Entender a arquitetura do sistema",
+    "1 - Entender a arquitetura do sistema/Licenças/Licenças de uso.md",
+    "1 - Entender a arquitetura do sistema/Arquitetura",
+    "1 - Entender a arquitetura do sistema/Licenças",
+    "1 - Entender a arquitetura do sistema/Images",
+    "1 - Entender a arquitetura do sistema/Open Source e Free Source/Free Software.md",
+    "1 - Entender a arquitetura do sistema/Images/Pasted image 20251105161332.png",
+    "1 - Entender a arquitetura do sistema/Open Source e Free Source/Open Source.md",
+    "1 - Entender a arquitetura do sistema/Open Source e Free Source",
     "Open Source e Free Source.md",
     "Open Source.md",
-    "Open Source e Free Source",
+    "1 - Entender a arquitetura do sistema/Open Source e Free Source",
     "Sem título.base"
   ]
 }

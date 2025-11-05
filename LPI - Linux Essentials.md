@@ -27,10 +27,12 @@
 
 ##### 1 - [[Arquitetura do Sistema Linux]]
 
-##### 1.1 - [[Open Source]]
+- **1.1 - [[Open Source]]**
 
-##### 1.2 - [[Free Software]]
+- **1.2 - [[Free Software]]**
 
+- **1.3 - [[Licenças de uso]]**
 ---
 
 ##### 2 - Instalar e configurar um sistema
+

@@ -1,0 +1,39 @@
+**ls** - Listar
+**ls-R** listar discursivo
+**Discursivo** = As subpastas também
+**cd** - Navegar entre diretorios
+
+**Caminhos absolutos** = Caminho completo
+Ex: /home/paulo/Downloads
+
+**Caminhos relativos** = Não completos
+Ex: ~/.config
+
+**head -n 10** - Lista as 10 primeiras linhas
+
+**wc** - Conta o número de linhas de um arquivo
+
+**mkdir** - Criar diretorios/pastas
+**mkdir** -p O -p permite com que seja criados diretorios dentro de outros
+Ex: dir1/dir2/dir3
+**cp** - copiar
+**tar** - Compactar
+**gz** - Comprimir
+
+**passwd** - Pode alterar a senha e bloquear usuário
+
+**alias** - Cria comandos personalizados. Para executar variaveis preciso informar o $ antes, já no alias não é necessario
+
+**;** - Serve para separar os comandos
+
+**AND** e **OR**
+```bash
+&& e ||
+
+Ex: "Sudo apt update && sudo apt upgrade -y"
+
+&& - So será executado o segundo se o primeiro for executado
+|| - Se o primeiro não der certo, execute o segundo
+```
+
+**uname -r** - Versão do Kernel

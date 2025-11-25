@@ -3,6 +3,14 @@
 **Discursivo** = As subpastas também
 **cd** - Navegar entre diretorios
 
+Usuários e grupos:
+- **chown** - é usado para alterar o proprietário e/ou o grupo de um arquivo ou diretório
+- **chgrp**: O comando `chgrp` é usado apenas para alterar o grupo de um arquivo ou diretório, não o proprietário.
+
+- **chmod**: O comando `chmod` é usado para alterar as permissões de um arquivo ou diretório, não o proprietário ou o grupo.
+
+- **chage**: O comando `chage` é usado para alterar os parâmetros de expiração de senha de um usuário, não para alterar o proprietário ou grupo de um arquivo.
+
 **Caminhos absolutos** = Caminho completo
 Ex: /home/paulo/Downloads
 
@@ -37,3 +45,12 @@ Ex: "Sudo apt update && sudo apt upgrade -y"
 ```
 
 **uname -r** - Versão do Kernel
+
+**Para ver o manual**
+
+-h ou --help = informações sobre o seu uso
+man - manual
+
+**ip addr show** - é usado para exibir as interfaces de rede e suas respectivas configurações de endereço IP.
+
+**sort** - classifica em ordem alfabética

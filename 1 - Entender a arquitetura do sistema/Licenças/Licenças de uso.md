@@ -18,3 +18,5 @@ Os tipos de licenças:
 
 **Freeware** = Gratuito
 
+
+**GPL** - A GPL é projetada para garantir que o código-fonte de um software permaneça livremente disponível.

@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diretorios.md",
+                "file": "Diretorios/Diretorios.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,12 +184,13 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "ae00b40e7aa0cfba",
+  "active": "d0245217ba9dbbfa",
   "lastOpenFiles": [
-    "Rede/Comandos.md",
-    "1 - Entender a arquitetura do sistema/Arquitetura/Comandos.md",
-    "Diretorios.md",
+    "Diretorios",
     "Sem título.md",
+    "1 - Entender a arquitetura do sistema/Arquitetura/Comandos.md",
+    "Diretorios/Diretorios.md",
+    "Rede/Comandos.md",
     "1 - Entender a arquitetura do sistema/Arquitetura/Variaveis.md",
     "1 - Entender a arquitetura do sistema/Arquitetura/Editores de texto - Script.md",
     "1 - Entender a arquitetura do sistema/Arquitetura/Comandos para leitura e linhas.md",

@@ -64,3 +64,5 @@ man - manual
 **ls -h** - Mostra o tamanho dos arquivos de forma legível 
 
 **--purge** - É para remover tudo, inclusive pacotes de configurações
+
+**ps** - O comando `ps` (process status) é o comando básico para listar os processos atuais no sistema.

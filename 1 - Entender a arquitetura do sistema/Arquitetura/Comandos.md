@@ -54,3 +54,13 @@ man - manual
 **ip addr show** - é usado para exibir as interfaces de rede e suas respectivas configurações de endereço IP.
 
 **sort** - classifica em ordem alfabética
+
+**touch m** - Modifica o tempo de modificação do arquivo.
+
+**which** - Mostra o caminho do comando. Ex: qual o caminho do comando ls
+
+**whatis** - Descrição e finalidade de um comando.
+
+**ls -h** - Mostra o tamanho dos arquivos de forma legível 
+
+**--purge** - É para remover tudo, inclusive pacotes de configurações

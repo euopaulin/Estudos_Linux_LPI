@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rede/Comandos.md",
+                "file": "Diretorios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos"
+              "title": "Diretorios"
             }
           }
         ],
@@ -184,20 +184,21 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d0245217ba9dbbfa",
+  "active": "ae00b40e7aa0cfba",
   "lastOpenFiles": [
-    "1 - Entender a arquitetura do sistema/Arquitetura/Variaveis.md",
     "Rede/Comandos.md",
+    "1 - Entender a arquitetura do sistema/Arquitetura/Comandos.md",
+    "Diretorios.md",
+    "Sem título.md",
+    "1 - Entender a arquitetura do sistema/Arquitetura/Variaveis.md",
     "1 - Entender a arquitetura do sistema/Arquitetura/Editores de texto - Script.md",
     "1 - Entender a arquitetura do sistema/Arquitetura/Comandos para leitura e linhas.md",
-    "1 - Entender a arquitetura do sistema/Arquitetura/Comandos.md",
     "1 - Entender a arquitetura do sistema/Arquitetura/Códigos de processo.md",
     "1 - Entender a arquitetura do sistema/Arquitetura/Arquitetura do Sistema Linux.md",
     "1 - Entender a arquitetura do sistema/Images/Pasted image 20251105161332.png",
     "1 - Entender a arquitetura do sistema/Licenças/Licenças de uso.md",
     "1 - Entender a arquitetura do sistema/Open Source e Free Source/Open Source.md",
     "1 - Entender a arquitetura do sistema/Open Source e Free Source/Free Software.md",
-    "Diretorios.md",
     "Redes.md",
     "Rede",
     "LPI - Linux Essentials.md",

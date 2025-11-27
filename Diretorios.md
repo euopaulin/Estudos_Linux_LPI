@@ -6,3 +6,6 @@
 
 **$PATH** - Permite a execução de comandos sem a necessidade de conhecer a localização do executável.
 
+**/var** - Armazena arquivos de logs
+
+**/tmp** - Arquivos temporários usados por programas durante sua execução.

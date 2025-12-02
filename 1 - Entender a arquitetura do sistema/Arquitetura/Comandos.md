@@ -66,3 +66,7 @@ man - manual
 **--purge** - É para remover tudo, inclusive pacotes de configurações
 
 **ps** - O comando `ps` (process status) é o comando básico para listar os processos atuais no sistema.
+
+**/hidden** - O "/" dentro do comando man é utilizado para pesquisar por palavras-chave.
+
+ls [A-Z]* = Lista todos os arquivos que possuem letras maiúsculas de A a Z

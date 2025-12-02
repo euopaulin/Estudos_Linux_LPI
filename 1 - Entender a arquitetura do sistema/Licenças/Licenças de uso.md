@@ -1,22 +1,7 @@
 
-Os tipos de licenças:
+**Software Livre (Free and Open Source Software - FOSS)**
 
-###### **Copyleft**
-
-- GPLV2
-- GPLV3
-- LGPL
-
-###### **Permissive**
-
-- FreeBSD
-
-
-**Commercial** = Software pago 
-
-**Shareware** = Previa de 30 dias, mas para acesso total precisa pagar
-
-**Freeware** = Gratuito
-
-
-**GPL** - A GPL é projetada para garantir que o código-fonte de um software permaneça livremente disponível.
+| **Tipo**       | **Licença(s) (Exemplos)**        | **Principais Características**                                                                                                                                                                           | **Requisito de Código Fonte**                                                    |
+| -------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **Copyleft**   | **GPLv2, GPLv3, LGPL**           | Garante que **todas as obras derivadas** de um código também sejam licenciadas sob a mesma licença, mantendo o software **livre**. É a licença mais restritiva (no sentido de liberdade).                | Deve ser disponibilizado para quem recebe o software.                            |
+| **Permissiva** | **FreeBSD (também MIT, Apache)** | Impõe poucas restrições sobre como o software pode ser usado, modificado e redistribuído. Permite o uso do código em **software proprietário (comercial)** sem a necessidade de liberar as modificações. | Não há obrigação de liberar o código fonte das modificações ou do produto final. |

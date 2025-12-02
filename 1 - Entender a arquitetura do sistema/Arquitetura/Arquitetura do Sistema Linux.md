@@ -2,4 +2,8 @@
 
 ![[Pasted image 20251105161332.png]]
 
-
+[[1 - Entender a arquitetura do sistema/Arquitetura/Comandos|Comandos]]
+[[Códigos de processo]]
+[[Editores de texto - Script]]
+[[Variaveis]]
+[[Grupo]]

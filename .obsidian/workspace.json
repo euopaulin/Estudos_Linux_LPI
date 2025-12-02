@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Entender a arquitetura do sistema/Arquitetura/Redes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redes"
+              "title": "README"
             }
           }
         ]
@@ -169,11 +169,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "11be909c51291158",
+  "active": "d0245217ba9dbbfa",
   "lastOpenFiles": [
-    "Diretorios/Diretorios.md",
     "1 - Entender a arquitetura do sistema/Arquitetura/Redes.md",
-    "LPI - Linux Essentials.md",
+    "Diretorios/Diretorios.md",
+    "README.md",
     "Rede/Comandos.md",
     "1 - Entender a arquitetura do sistema/Arquitetura/Arquitetura do Sistema Linux.md",
     "1 - Entender a arquitetura do sistema/Arquitetura/Grupo.md",

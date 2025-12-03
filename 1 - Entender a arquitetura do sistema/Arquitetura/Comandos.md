@@ -53,6 +53,8 @@
 - **/hidden** - O "/" dentro do comando man é utilizado para pesquisar por palavras-chave.
 - ls [A-Z]* = Lista todos os arquivos que possuem letras maiúsculas de A a Z
 - **less** = É um comando para visualizar arquivos de texto, página por página, permitindo rolar para frente e para trás
+- locate - é semelhante ao find, porém usa a pesquisa em cache
+- **dmesg** - Mostra o que aconteceu durante a inicialização do kernel
 ---
 #### Operadores Lógicos
 

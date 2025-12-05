@@ -9,3 +9,5 @@
 **/var** - Armazena arquivos de logs
 
 **/tmp** - Arquivos temporários usados por programas durante sua execução.
+
+**/proc** - É um diretório virtual que funciona como uma interface para os dados internos do kernel, oferecendo informações sobre o sistema em tempo real.

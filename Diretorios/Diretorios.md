@@ -11,3 +11,6 @@
 **/tmp** - Arquivos temporários usados por programas durante sua execução.
 
 **/proc** - É um diretório virtual que funciona como uma interface para os dados internos do kernel, oferecendo informações sobre o sistema em tempo real.
+
+**/etc/shadow** - O arquivo /etc/shadow armazena a senha real em um formato criptografado (mais parecido com o hash da senha) para a conta do usuário, juntamente com propriedades adicionais relacionadas à senha. Basicamente, ele armazena informações seguras da conta do usuário. Todos os campos são separados por dois pontos (:). Ele contém uma entrada por linha para cada usuário listado no arquivo /etc/passwd.
+

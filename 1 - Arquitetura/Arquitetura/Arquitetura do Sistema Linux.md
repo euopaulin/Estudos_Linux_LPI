@@ -6,7 +6,7 @@ Um sistema operacional de 32 bits não é compatível com um sistema operacional
 
 
 
-[[1 - Entender a arquitetura do sistema/Arquitetura/Comandos|Comandos]]
+[[1 - Arquitetura/Arquitetura/Comandos|Comandos]]
 [[Códigos de processo]]
 [[Editores de texto - Script]]
 [[Variaveis]]
